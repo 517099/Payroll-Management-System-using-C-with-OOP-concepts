@@ -2,108 +2,42 @@
 
 # Abstract
 
-This project is a pattern challenge that helps you to check your mastery in tracking and dealing with employees’ payroll topics for any company. This is useful for economic control and companies. The challenge has extraordinary training and subclasses with numerous functions in them.The mission has a couple of training and sub-training with many functions inside them. Basic operations customers can carry out through this application mission which are primarily based totally on report managing are including new worker report, editing worker report and deleting report, showing one or all worker’s report. Besides these, payroll control additionally lets in customers to print the income slip for a selected worker. This mission is large, whole and we attempted our pleasant to make it error-free. The supply code could be very long – over 1500 traces and evolved in Code Blocks compilation
+This project is a pattern challenge that helps you to check your mastery in tracking and dealing with employees’ payroll topics for any company. This is useful for economic control and companies. The challenge has extraordinary training and subclasses with numerous functions in them.The mission has a couple of training and sub-training with many functions inside them. Basic operations customers can carry out through this application mission which are primarily based totally on report managing are including new worker report, editing worker report and deleting report, showing one or all worker’s report. Besides these, payroll control additionally lets in customers to print the income slip for a selected worker. This mission is large, whole and we attempted our pleasant to make it error-free. The supply code could be very long – over 1500 traces and evolved in Code Blocks compilation.
 
-# The paroll project uses the following concepts of C/C++
+# Objective;
 
-Pointers
+According to the system's own description, a payroll management system is an accounting package that provides financial solutions for a specific organization or institutional body.Using predefined rules based on the organization's working pattern, this payroll management aids account maintenance of all records.Its admin module was built in a way that makes it possible to change the working rules at any time to meet the needs of the business.Its fixed automatic rates and salary save time when creating the final ledger.The generation module will prepare the employee's post and final reports; the administrator will only need to fill in the employee's details and select their work type in the database.Coding's usability can be easily achieved because it was developed using object-oriented programming principles.Changes to the working rules can be made by a technical person in a matter of seconds, even if they are required in the future.In order to access the specific data, all working departments within the organization will share a common file, eliminating the possibility of data duplication and contributing to data consistency.Only options can be selected for each working section, and the system's graphical user interface sets it apart from other systems.
 
-Loops
+# Existing System;
 
-Functions
+The user interface is the most problematic aspect of the system because of the complex business rules that make it difficult for users to use.Even if errors occur while working with the system, they are not receiving assistance on how to deal with them.It wasn't easy to keep track of employees' records, and when final payroll records were made, each employee had to be sorted by job category.The company's accounting module must use the tally package to retrieve information for the purpose of creating pay slips for each employee.
 
-If Else
+# Proposed System;
 
-Switch
+The new system will help the organization to set rates for each category which will help in preparing ledger, balance sheet easily and perform automatic processing without human intervention. For making ledger, it will takes inputs on employees working modules such as type of work, their designation, rate per day, tax deduction on monthly basis and bonus or increment on fixed interval of days etc. As salary statement and payment sheet need to be prepared as and when required so each employees will be differentiated using their employee’s id. Pay slip will give the entire information which help the working employees to get clear picture for their salary and creating a fair environment for working organization
 
-Classes
-
-File handling
-
-C++ Graphics
-
-Function overriding and overloading
-
-Composition
-
-# Project classes consist of;
-
-The Project classes
-
-LINES
-
-LINE_HOR
-
-LINE_VER
-
-BOX
-
-CLEARUP
-
-CLEARDOWN
-
-MENUS
-
-MAIN_MENU
-
-EDIT_MENU
-
-INTRODUCTION
-
-EMPLOYEE
-
-NEW_EMPLOYEE
-
-MODIFICATION
-
-DELETION
-
-DISPLAY
-
-LIST
-
-SALARY_SLIP
-
-ADD_RECORD
-
-MODIFY_RECORD
-
-DELETE_RECORD
-
-LASTCODE
-
-CODEFOUND
-
-RECORDNO
-
-FOUND_CODE
-
-DISPLAY_RECORD
-
-VALID_DATE
-
-# Operatons performed;
-
-# Addition of New Employee:
-
-This function is below the general public features of sophistication worker. The statistics treated in this option are worker code number, name, address, telecellsmartphone number, becoming a member of date (day, month and year), designation, grade and loan.
-
-# Modify Employee Record:
-
-This System in C++ asks for employee code from the person for this feature to work. Modifications that may be made are the worker code range itself, becoming a member of date (day, month and year), name, address, telecellsmartphone range, designation, grade, residence allowance and mortgage given to the worker. Employee’s grades are labeled as A, B, C, D and E.
-
-# Delete Employee Record:
-
-Deletion is achieved of an worker report from Payroll control machine assignment through getting into the worker code. A affirmation message is requested mentioning whether or not the person simply desires to delete the report from the file.
-
-# Print Employee Salary Slip:
-
-This feature too asks for the employee code; the employee code has been used to unlock or perform operations in many features of this payroll management system project in C++. This function lists all the months of the year, and asks for date, employee name, designation and grade from the user. To print the salary slip, the user further needs to provide information such as number of days worked in the month by the employee and the number of hours worked over time. The slip enlists basic salary, allowance, deductions and net salary of the employee.
-
-# Display Employee Record:
-
-Providing the employee code number, users can access all the provided information related to a particular employee via this function. The employee record information displayed are the ones provided while adding a new employee record.
-
-# Display List of Employees:
+# Display List of Employees;
 
 This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary package.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
