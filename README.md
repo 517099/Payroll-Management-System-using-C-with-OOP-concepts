@@ -106,4 +106,4 @@ Providing the employee code number, users can access all the provided informatio
 
 # Display List of Employees:
 
-This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary.
+This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary package.
